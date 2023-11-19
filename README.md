@@ -20,4 +20,5 @@
 
 - Then I started to plan out the genre page, I wanted to see the average score of each genre and the sale numbers to see if rating or how popular a genre is effects sales
 
-![image](https://github.com/hj18/Trends-in-Global-Video-Games-Market/assets/71445208/1a853a44-dc42-4aab-8a23-1c0e3b5f2d9a)
+![image](https://github.com/hj18/Trends-in-Global-Video-Games-Market/assets/71445208/9faa1518-6ebb-4545-af1d-5c954cd06bd2)
+
