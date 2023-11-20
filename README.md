@@ -2,6 +2,7 @@
 
 - Data source --> https://www.kaggle.com/datasets/thedevastator/discovering-hidden-trends-in-global-video-games
 - Aim : discove trends in the video games market
+- Tool --> Power BI
 
 ### Content ->
 - The Final Project
