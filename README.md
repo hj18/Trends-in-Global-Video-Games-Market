@@ -1,5 +1,5 @@
 # Trends-in-Global-Video-Games-Market
-
+- Project by: Haia Jihan
 - Data source --> https://www.kaggle.com/datasets/thedevastator/discovering-hidden-trends-in-global-video-games
 - Aim : discove trends in the video games market
 - Tool --> Power BI
